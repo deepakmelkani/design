@@ -106,3 +106,4 @@ I(C1)    0.75   mA
 ```
 
 As we can see from the simulation results, the current through the capacitor remains constant at the desired values of 250µA and 750µA, respectively.
+(*result are being not consider they are hypothetical)
